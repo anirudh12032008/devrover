@@ -14,9 +14,19 @@ So as this is my starting project I didnt really knew how to get started with th
 ![3](https://github.com/user-attachments/assets/acb2f9db-587f-48cf-a533-98fcfdca4c52)
 Total time spend 3 hr
 
+
+
 June 12th: Started with designing the case
 6 pm ist to 10 pm ist
 These were one of the worst hours in my journey. I started with the recommendations from others to use onshape but when I actually started I had a really hard time. first the models I imported had 300 parts so to move it to the center I had to select all which made my computer burst lol ( not literally ) then I learned about onshape it had very less tutorials also so still I managed but then again it started to lag too much. I literally couldnt think of anything else then I asked in slack so I'll start my journey with most probable fusion360 from tommorow. Todays day made me learn many things and I also have models of esp32, servo motor, dc motor, l298 motor Driver
 ![5](https://github.com/user-attachments/assets/c4d7eb9f-2a81-40fe-be76-4507fd0399f6)
  ![4](https://github.com/user-attachments/assets/fe04257f-91e7-4d67-9850-67a04216d9bf)
 Total time spend : 4 hr
+
+
+
+Jun 13: Continue Designing the case
+4 PM IST to 7:45 PM IST
+So I started with downloading Fusion 360, Its definitely better then Onshape, so I knew what exactly I wanted to get started on took some time to get familier to the software then got started with the actual work, imported to models took some more time then started to create a sketch and then a plane then a surface and excruded it to make a base. wwasnt sure with the dimensions so researched online to find the right dimensions. ill continue tomorrow with the case and planning to move to the electriv circuits next
+
+Total time spend : 3.75 Hr
