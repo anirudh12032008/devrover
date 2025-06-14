@@ -30,3 +30,13 @@ Jun 13: Continue Designing the case
 So I started with downloading Fusion 360, Its definitely better then Onshape, so I knew what exactly I wanted to get started on took some time to get familier to the software then got started with the actual work, imported to models took some more time then started to create a sketch and then a plane then a surface and excruded it to make a base. wwasnt sure with the dimensions so researched online to find the right dimensions. ill continue tomorrow with the case and planning to move to the electriv circuits next
 
 Total time spend : 3.75 Hr
+
+Jun 14: Continue with the planning and the 3D case
+6:30 PM IST to 11:30 PM IST
+Continued developing the model. Had some issue regarding how would the actual model look like but after exploring other ideas and designs I planned to make it in like a Box thats like a perfect robo shape lol, so I first researched for the components that ill be using and found there 3d models to import, due to budget constraint I droppeed the servo motors for the pickup thing. But I added the the mother components. Created the sketches for each model and had my case in 2 parts for top and bottom also added the screen. Took some time to seaerch online on how to do a thing but now I am familiar with the overall software so from today things will go on more fast!!! 
+![141](https://github.com/user-attachments/assets/864258c9-af31-44a1-aed5-8d4f74162e80)
+![142](https://github.com/user-attachments/assets/79808ca9-9d2d-4ecb-acb2-62cce186da43)
+![143](https://github.com/user-attachments/assets/b403fcea-274e-45cd-8e84-37af1d2e00fa)
+![144](https://github.com/user-attachments/assets/2d78ffe3-ab0c-46de-b588-b9919cc4e86e)
+
+Total Time Spend : 4 Hr
