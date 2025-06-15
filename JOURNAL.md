@@ -40,3 +40,12 @@ Continued developing the model. Had some issue regarding how would the actual mo
 ![144](https://github.com/user-attachments/assets/2d78ffe3-ab0c-46de-b588-b9919cc4e86e)
 
 Total Time Spend : 4 Hr
+
+June 15: Changed the components and layout
+7:15 PM IST to 11 PM IST
+So today I continued with the case but then after reconsideration I reselected the components required, I replaced the 0.93 inch oled with 1.3 one and added other components like a speaker and a microphone to receive audio input and I also changed the overall layout so I removed the previous bodies and components and added the new also this time I kept in mind about where exactly each component will be in the final design. Now I have included all the models that I will be using in the final rover. I made sure that the 3D model that I was using is available on Amazon or other places and have the right dimensions so that I don't face any issue later. Some models weren't available on grabcad so I surfed the web for it. 
+![152](https://github.com/user-attachments/assets/12cc8fdb-f446-4cd5-ab96-b7480d5f675e)
+![151](https://github.com/user-attachments/assets/4e4f186c-ff62-438d-b8be-0e6743c8219f)
+![154](https://github.com/user-attachments/assets/e60d0b64-a85a-43dc-a90a-2af73f42c054)
+![153](https://github.com/user-attachments/assets/6308c15a-3209-4796-9107-2b13e5d57c50)
+Total Time Spend: 3.75 Hr
