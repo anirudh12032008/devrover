@@ -49,3 +49,12 @@ So today I continued with the case but then after reconsideration I reselected t
 ![154](https://github.com/user-attachments/assets/e60d0b64-a85a-43dc-a90a-2af73f42c054)
 ![153](https://github.com/user-attachments/assets/6308c15a-3209-4796-9107-2b13e5d57c50)
 Total Time Spend: 3.75 Hr
+
+June 16: Designed the 3d structure especially for oled
+I started with creating the base structure. firstly created the sketches for all components.then I worked for the oled display structure. It took a bit time but atleast I can see things turning into the model. Tommorow I'll try to complete the structure for all of the components.
+![IMG_20250617_061307_598](https://github.com/user-attachments/assets/9774ed8b-698c-40c7-926b-fb53d3bf027e)
+![IMG_20250617_061308_038](https://github.com/user-attachments/assets/6d92dae0-01de-424f-b6cb-0e5b1e5a0375)
+![IMG_20250617_061308_051](https://github.com/user-attachments/assets/2a3871b7-e4d9-4fba-b688-7718887a181d)
+![IMG_20250617_061307_957](https://github.com/user-attachments/assets/499a4ae2-8d11-4f87-be89-8429a331f9fc)
+
+Total time Spent: 3hr
