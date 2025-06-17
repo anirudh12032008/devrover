@@ -58,3 +58,11 @@ I started with creating the base structure. firstly created the sketches for all
 ![IMG_20250617_061307_957](https://github.com/user-attachments/assets/499a4ae2-8d11-4f87-be89-8429a331f9fc)
 
 Total time Spent: 3hr
+
+June 17: Designed most of the model
+Continuing the work that I did yesterday, took a bit long because first my sketch pallete disappeared asked for help but didnt found any solution both on internet and slack. Still I continued with the designing first I finished the bottom then insted of procastination I finished all sides also and added holes where ever needed, added a few holes on the base for esp and l298
+![174](https://github.com/user-attachments/assets/f4925c67-e0a2-41aa-b307-79d5fe8ad3ac)
+![173](https://github.com/user-attachments/assets/66faa180-4c79-4798-a83c-cb092ef28f9f)
+![172](https://github.com/user-attachments/assets/7759699e-589b-449e-949d-6551bc4084cd)
+![171](https://github.com/user-attachments/assets/5a62eb61-1b7d-4fa3-b652-55950145adf7)
+Total Time Spent: 4.5 Hr
