@@ -66,3 +66,9 @@ Continuing the work that I did yesterday, took a bit long because first my sketc
 ![172](https://github.com/user-attachments/assets/7759699e-589b-449e-949d-6551bc4084cd)
 ![171](https://github.com/user-attachments/assets/5a62eb61-1b7d-4fa3-b652-55950145adf7)
 Total Time Spent: 4.5 Hr
+
+June 19: Completed the 3D model
+Finished completing the 3D model, added the holes and improved some small details by taking feedbacks on slack. I will be using rgb strip around it so left a small hole near the oled stand to let the wires in
+![192](https://github.com/user-attachments/assets/99298f1c-cb2e-4a51-8c19-c6bf8d57c352)
+![191](https://github.com/user-attachments/assets/466405fe-4081-4e4c-be97-77d6ae4fd34b)
+Total Time Spent: 2 Hr
