@@ -72,3 +72,7 @@ Finished completing the 3D model, added the holes and improved some small detail
 ![192](https://github.com/user-attachments/assets/99298f1c-cb2e-4a51-8c19-c6bf8d57c352)
 ![191](https://github.com/user-attachments/assets/466405fe-4081-4e4c-be97-77d6ae4fd34b)
 Total Time Spent: 2 Hr
+
+June 20: Finished the Case and created the BOM 
+added a hole for the Camera, while creating the BOM I also noticed that the esp32 was having wrong holes so fixed it also improved the holes and fixed minor issues on the suggestions from others. Creating the BOM was the most important part, for India i couldn't find any website which had all the parts so at last i used Amazon. then the issue was there were many parts which had shipping cost more then the actual part cost. some had the minimum order quantity requirements. But Overall I got everything in 80-85$ which is quite good as of what I had thought initially.
+Time Spent : 3 Hr
