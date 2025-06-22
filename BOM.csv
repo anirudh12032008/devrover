@@ -1,22 +1,22 @@
-Name,Price(INR),Price(USD),Link,Place,Note
-ESP32  S3 Devkit,1799,20.67816092,https://www.amazon.in/ESP32-S3-DevKit-Development-ESP32-S3-WROOM-1-Microcontroller-Integrates/dp/B0CDRM6BGQ/ref=sr_1_3?sr=8-3,Amazon.in,
-TT DC Motor,399,4.586206897,https://www.amazon.in/ApTechDeals-Electric-Magnetic-Gearbox-Plastic/dp/B07Q22QS3R/ref=sr_1_1?sr=8-1,Amazon.in,
-Battery 3.7V (2xPack of 2),218,2.505747126,https://www.amazon.in/ROBOMALLSTM-Rechargeable-Batteries-Lithium-Ion-Bluetooth/dp/B0F7Y3GWXV/ref=sr_1_1?sr=8-1,amazon.in,Lightning Deal or else 4 dollar
-ESP32 Camera,1849,21.25287356,https://www.amazon.in/Aideepen-ESP32-CAM-Bluetooth-ESP32-CAM-MB-Arduino/dp/B08P2578LV/ref=sr_1_11?sr=8-11,Amazon.in,
-Battery Holder (2x3 cell),149,1.712643678,https://www.amazon.in/18650-Battery-Holder-holder-3-Slot/dp/B08RRM8TP3/ref=pd_sbs_d_sccl_1_1/262-6291500-9708854,Amazon.in,
-L298D Motor Driver,298,3.425287356,https://www.amazon.in/Robodo-Electronics-Motor-Driver-Module/dp/B00N4KWYDE/ref=sr_1_1?s=industrial&sr=1-1,Amazon.in,
-TP4056 USB-C Charging Module (x2),149,1.712643678,https://www.amazon.in/gp/product/B0CKP5MSHK/ref=ox_sc_act_title_1?smid=A366YFPXO3CTI5,Amazon.in,
-Switches,129,1.482758621,https://www.amazon.in/Combo-switch-Rocker-pieces-project/dp/B07NNWZN5B/ref=sr_1_2?s=industrial&sr=1-2,Amazon.in,I needed less switches but it comes in this set. I would use some for adding options to turn off multiple things
-SH1106 Oled,549,6.310344828,https://www.amazon.in/Robocraze-Inches-Display-Module-Arduino/dp/B077TH5WWY/ref=sr_1_1?sr=8-1,Amazon.in,
-SD card reader,190,2.183908046,https://www.amazon.in/xcluma-Module-Memory-Storage-Arduino/dp/B071LRV8CT/ref=sr_1_3?sr=8-3,Amazon.in,I want one but it has minimum of 2 and the other imposes 1 dollar as extra delivery charge so it is cheaper afterall
-MAX9814 Microphone Module,282,3.24137931,https://www.amazon.in/xcluma-high-performance-microphone-amplifier-CMA-4544PF-W/dp/B0974Y2P2C/ref=sr_1_4?sr=8-4,Amazon.in,
-Speaker 2W 4ohm,290,3.333333333,https://www.amazon.in/Invento-8944638610755-Loudspeaker-Speaker-Replace/dp/B06XFJGV9K/ref=sr_1_4?sr=8-4,Amazon.in,
-PAM8403,116,1.333333333,https://www.amazon.in/dp/B07ZFVPMCV/ref=vp_d_fuw_pd?_encoding=UTF8&psc=1,Amazon.in,
-10 Segment LED Bar Graph,70,0.8045977011,"https://www.amazon.in/cart/smart-wagon?newItems=3d17a9ca-eada-479b-af5a-62ccfd44ab0d,1&ref_=sw_refresh",Amazon.in,
-Buck Convertor (x2),192,2.206896552,https://www.amazon.in/LM2596-DC-DC-Buck-Converter-Module/dp/B009P04YTO/ref=sr_1_3?sr=8-3,Amazon.in,
-WS2812 RGBIC LED Strip,289,3.32183908,https://www.amazon.in/AURECIS-Individually-Addressable-Non-Waterproof-Combinations/dp/B0F9FRZH69/ref=sr_1_8?sr=8-8,Amazon.in,
-M3 Screw( pack of 10),120,1.379310345,https://www.amazon.in/Rpi-shop-Phillip-Phillips-Quantity/dp/B08FG7DL3T/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY,Amazon.in,
-Wiring,189,2.172413793,https://www.amazon.in/Aptechdeals-Jumper-Wires-Female-Breadboard/dp/B074JB6SX8/ref=sr_1_5?sr=8-5,Amazon.in,
-3D Case,0,0,,,
-,,,,,
-Total,7277,83.64367816,,,
+Name,Price(INR),Price(USD),Link,Place
+ESP32  S3 Devkit,1799,20.77367206,https://www.amazon.in/ESP32-S3-DevKit-Development-ESP32-S3-WROOM-1-Microcontroller-Integrates/dp/B0CDRM6BGQ/ref=sr_1_3?sr=8-3,Amazon.in
+TT DC Motor,399,4.6073903,https://www.amazon.in/ApTechDeals-Electric-Magnetic-Gearbox-Plastic/dp/B07Q22QS3R/ref=sr_1_1?sr=8-1,Amazon.in
+Battery 3.7V (2xPack of 2),327,3.775981524,https://www.amazon.in/ROBOMALLSTM-Rechargeable-Batteries-Lithium-Ion-Bluetooth/dp/B0F7Y3GWXV/ref=sr_1_1?sr=8-1,amazon.in
+ESP32 Camera,1849,21.35103926,https://www.amazon.in/Aideepen-ESP32-CAM-Bluetooth-ESP32-CAM-MB-Arduino/dp/B08P2578LV/ref=sr_1_11?sr=8-11,Amazon.in
+Battery Holder (2x3 cell),149,1.720554273,https://www.amazon.in/18650-Battery-Holder-holder-3-Slot/dp/B08RRM8TP3/ref=pd_sbs_d_sccl_1_1/262-6291500-9708854,Amazon.in
+L298D Motor Driver,187,2.159353349,https://www.amazon.in/Robodo-Electronics-Motor-Driver-Module/dp/B00N4KWYDE/ref=sr_1_1?s=industrial&sr=1-1,Amazon.in
+TP4056 USB-C Charging Module (x2),115,1.327944573,https://www.amazon.in/Robocraze-TP4056-battery-charger-protection/dp/B0D95WY794/ref=sr_1_1?s=industrial&sr=1-1,Amazon.in
+Switches,202,2.33256351,https://www.amazon.in/Electronicspices-Switchs-electronic-science-project/dp/B08TRDX6LW/ref=sr_1_3?s=industrial&sr=1-3,Amazon.in
+SH1106 Oled,549,6.339491917,https://www.amazon.in/Robocraze-Inches-Display-Module-Arduino/dp/B077TH5WWY/ref=sr_1_1?sr=8-1,Amazon.in
+SD card reader,190,2.193995381,https://www.amazon.in/xcluma-Module-Memory-Storage-Arduino/dp/B071LRV8CT/ref=sr_1_3?sr=8-3,Amazon.in
+MAX9814 Microphone Module,282,3.256351039,https://www.amazon.in/xcluma-high-performance-microphone-amplifier-CMA-4544PF-W/dp/B0974Y2P2C/ref=sr_1_4?sr=8-4,Amazon.in
+Speaker 2W 4ohm,290,3.348729792,https://www.amazon.in/Invento-8944638610755-Loudspeaker-Speaker-Replace/dp/B06XFJGV9K/ref=sr_1_4?sr=8-4,Amazon.in
+PAM8403,116,1.339491917,https://www.amazon.in/dp/B07ZFVPMCV/ref=vp_d_fuw_pd?_encoding=UTF8&psc=1,Amazon.in
+10 Segment LED Bar Graph,70,0.8083140878,"https://www.amazon.in/cart/smart-wagon?newItems=3d17a9ca-eada-479b-af5a-62ccfd44ab0d,1&ref_=sw_refresh",Amazon.in
+Buck Convertor (x2),192,2.217090069,https://www.amazon.in/LM2596-DC-DC-Buck-Converter-Module/dp/B009P04YTO/ref=sr_1_3?sr=8-3,Amazon.in
+WS2812 RGBIC LED Strip,289,3.337182448,https://www.amazon.in/AURECIS-Individually-Addressable-Non-Waterproof-Combinations/dp/B0F9FRZH69/ref=sr_1_8?sr=8-8,Amazon.in
+M3 Screw( pack of 10),120,1.385681293,https://www.amazon.in/Rpi-shop-Phillip-Phillips-Quantity/dp/B08FG7DL3T/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY,Amazon.in
+Wiring,189,2.182448037,https://www.amazon.in/Aptechdeals-Jumper-Wires-Female-Breadboard/dp/B074JB6SX8/ref=sr_1_5?sr=8-5,Amazon.in
+3D Case,0,0,,
+Delivery,0,0,,
+Total,7314,84.45727483,,
