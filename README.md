@@ -31,7 +31,7 @@ I always wanted to build a robot like rover, which can move on my voice commands
 |-------------------------------------|------------------|---------------------|
 | ESP32 S3 Devkit                     | 1799             | 20.77               |
 | TT DC Motor                         | 399              | 4.61                |
-| Battery 3.7V                        | 218              | 2.52                |
+| Battery 3.7V                        | 327              | 3.78                |
 | ESP32 Camera                        | 1849             | 21.35               |
 | Battery Holder                      | 149              | 1.72                |
 | L298D Motor Driver                  | 187              | 2.16                |
@@ -50,5 +50,5 @@ I always wanted to build a robot like rover, which can move on my voice commands
 | 3D Case                             | 0                | 0.00                |
 | Delivery                            | 0                | 0.00                |
 |-------------------------------------|------------------|---------------------|
-| **Total**                           | **7205**         | **83.20**           |
+| **Total**                           | **7205**         | **84.46**           |
 |-------------------------------------|------------------|---------------------|
