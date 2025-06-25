@@ -3,7 +3,7 @@ Title - " DEV ROVER "
 Author - Anirudh Sahu
 description - Dev Rover is your personal rover which can move on its own, it has a esp32 with a camera that helps it to idetify things and navigate through the surroundings. it can be controlled by voice commands ( with the help me MAX9814) and can be controlleed by its own web applivation. It also has a speaker which can play some cool sounds. Its also equipped with a tilted 1.3 inc Oled display which can help the developer to see and visualize things. It ill run on 3/6 LiPo battery. It has 4 dc motors controlled by L298N motor driver. It has a 3D printed body which is light weight and durable. It can be used for various purposes like surveillance, exploration, and off course to show off to your friends.
 created_at - 2025-06-11
-## Total Time - 40 Hr
+## Total Time - 44 Hr
 
 ## June 11th: researched around the topic and created a rough schematic and PCB
 3 PM IST - 6:20 PM IST
@@ -96,3 +96,9 @@ Written the Readme for the Project. Added some cool details in the 3D model. Cre
 ![f1](https://github.com/user-attachments/assets/9537c925-2c56-43db-9653-48e12858e868)
 
 Time Spent - 6Hr ( including 1AM 23th)
+
+## June 25: Created PCB
+As Cyao told me to create a PCB I started creating the PCB, making it a big pcb would just increase its price so I tried to keep it compact. I initally started with creating my own motor driver but then when I checked the price for PCBA it was more then 5x a module so I decided to use only hand soldered items to save money on the PCB and create the pcb to make things clutter free.
+![p2](https://github.com/user-attachments/assets/f2dbb86c-696f-4fdd-a831-2af177426fcc)
+![p1](https://github.com/user-attachments/assets/299da37f-9b37-4a78-aa27-177995099f02)
+Time Spent - 3.5 hr
