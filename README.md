@@ -21,6 +21,9 @@ I always wanted to build a robot like rover, which can move on my voice commands
 ![f5](https://github.com/user-attachments/assets/6d1245a6-8337-41bf-b5bb-bcd7782ee8b2)
 ![f4](https://github.com/user-attachments/assets/119ca12f-1b47-43ae-9953-a9062cb8d259)
 ![circuit](https://github.com/user-attachments/assets/3ef9ad68-8348-43e0-b893-e962e287dba9)
+![p2](https://github.com/user-attachments/assets/dae1c807-fbac-453b-b67e-22da3e429576)
+![p1](https://github.com/user-attachments/assets/31fb0f2d-879f-457a-83ce-5b97cd818bf5)
+
 ![f3](https://github.com/user-attachments/assets/8d0868a9-4078-4684-b9a8-62a9db773f0d)
 ![f2](https://github.com/user-attachments/assets/5c70919f-8ba9-4d61-aa44-499578473bc3)
 ![f1](https://github.com/user-attachments/assets/6c49fe4f-2a53-4460-b094-c7a76e19a6a7)
