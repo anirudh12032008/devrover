@@ -28,32 +28,30 @@ I always wanted to build a robot like rover, which can move on my voice commands
 ![f2](https://github.com/user-attachments/assets/5c70919f-8ba9-4d61-aa44-499578473bc3)
 ![f1](https://github.com/user-attachments/assets/6c49fe4f-2a53-4460-b094-c7a76e19a6a7)
 
-
-## BOM (Optimized Version)
-
+## Bill of Materials
 | Component                        | Price (INR) | Price (USD) |
 |----------------------------------|-------------|-------------|
-| ESP32 WROOM                      | ₹320        | $3.70       |
-| TT DC Motor                      | ₹308        | $3.56       |
-| Battery 3.7V                     | ₹546        | $6.30       |
-| ESP32 Camera                     | ₹1040       | $12.01      |
-| Battery Holder                   | ₹58         | $0.67       |
-| L298D Motor Driver               | ₹78         | $0.90       |
-| TP4056 USB-C Charging Module     | ₹32         | $0.37       |
-| Switches                         | ₹202        | $2.33       |
-| SH1106 OLED                      | ₹220        | $2.54       |
-| SD Card Reader                   | ₹25         | $0.29       |
-| MAX9814 Microphone Module        | ₹166        | $1.92       |
-| Speaker 2W 4Ω                    | ₹290        | $3.35       |
-| PAM8403 Amplifier                | ₹51         | $0.59       |
-| 10 Segment LED Bar Graph         | ₹70         | $0.81       |
-| Buck Converter                   | ₹35         | $0.40       |
-| WS2812 RGBIC LED Strip           | ₹289        | $3.34       |
-| M3 Screws                        | ₹120        | $1.39       |
-| Wiring                           | ₹120        | $1.39       |
-| 3D Printed Case                  | ₹870        | $10.00      |
-| Heat Sleeve                      | ₹18         | $0.21       |
-| Nylon Cable                      | ₹35         | $0.40       |
-| Desoldering Wick                 | ₹12         | $0.14       |
-| **Tax**                          | ₹296.50     | $3.41       |
-| **Total**                        | **₹5201.50**| **$59.99**  |
+| ESP32 WROOM                      | 320         | 3.70        |
+| TT DC Motor                      | 308         | 3.56        |
+| Battery 3.7V (3-Pack of 2)       | 546         | 6.30        |
+| ESP32 Camera                     | 1040        | 12.01       |
+| Battery Holder (2x3 cell)        | 58          | 0.67        |
+| L298D Motor Driver               | 78          | 0.90        |
+| TP4056 USB-C Charging Module     | 32          | 0.37        |
+| Switches                         | 202         | 2.33        |
+| SH1106 OLED Display              | 220         | 2.54        |
+| SD Card Reader                   | 25          | 0.29        |
+| MAX9814 Microphone Module        | 166         | 1.92        |
+| Speaker 2W 4Ω                    | 290         | 3.35        |
+| PAM8403 Amplifier Module         | 51          | 0.59        |
+| 10-Segment LED Bar Graph         | 70          | 0.81        |
+| Buck Converter                   | 35          | 0.40        |
+| WS2812 RGBIC LED Strip           | 289         | 3.34        |
+| M3 Screws (Pack of 10)           | 120         | 1.39        |
+| Terminal Block                   | 48          | 0.55        |
+| 3D Case                          | 870         | 10.00       |
+| PCB                              | 870         | 10.00       |
+| Miscellaneous                    | 435         | 5.00        |
+| **Tax**                          | **296.5**   | **3.41**    |
+|                                  |             |             |
+| **Total**                        | **₹6369.5** | **$73.42**  |
