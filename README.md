@@ -16,9 +16,11 @@ I always wanted to build a robot like rover, which can move on my voice commands
 - **3D Printed Body**: Lightweight and durable design
 
 
-![f7](https://github.com/user-attachments/assets/4061e1b1-3ead-45ee-974e-77f218a2d66d)
-![f6](https://github.com/user-attachments/assets/2593fbd9-ad37-4c01-b7c0-2ae235eee321)
-![f5](https://github.com/user-attachments/assets/6d1245a6-8337-41bf-b5bb-bcd7782ee8b2)
+![d1](https://github.com/user-attachments/assets/ba1039a1-47f1-4584-9764-9c9bcad16024)
+![d2](https://github.com/user-attachments/assets/107c94bf-9680-46fc-aa84-570f4a208019)
+![d3](https://github.com/user-attachments/assets/124ca48f-42f6-4afa-89e1-81aaff96266e)
+![d4](https://github.com/user-attachments/assets/532c5068-4321-44ca-9d8f-1b86bec817b6)
+
 ![f4](https://github.com/user-attachments/assets/119ca12f-1b47-43ae-9953-a9062cb8d259)
 ![circuit](https://github.com/user-attachments/assets/3ef9ad68-8348-43e0-b893-e962e287dba9)
 ![p2](https://github.com/user-attachments/assets/dae1c807-fbac-453b-b67e-22da3e429576)
