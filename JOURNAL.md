@@ -102,3 +102,7 @@ As Cyao told me to create a PCB I started creating the PCB, making it a big pcb 
 ![p2](https://github.com/user-attachments/assets/f2dbb86c-696f-4fdd-a831-2af177426fcc)
 ![p1](https://github.com/user-attachments/assets/299da37f-9b37-4a78-aa27-177995099f02)
 Time Spent - 3.5 hr
+
+
+## July 9-10: Started building physically 
+recived all the parts so I started to build the main project. couldn't get the 3d print so I planned to work on a wooden base for prototype. integrated the camera and also completed the working rover. it can move right now the main issue was that Arduino IDE sucks adn the esp32 am was getting too hot
