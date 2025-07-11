@@ -106,3 +106,7 @@ Time Spent - 3.5 hr
 
 ## July 9-10: Started building physically 
 recived all the parts so I started to build the main project. couldn't get the 3d print so I planned to work on a wooden base for prototype. integrated the camera and also completed the working rover. it can move right now the main issue was that Arduino IDE sucks adn the esp32 am was getting too hot
+![Screenshot_2025-07-11-08-56-51-107_com android chrome](https://github.com/user-attachments/assets/ed130434-dd80-432b-861b-e900661a8ba8)
+![Screenshot_2025-07-11-08-57-54-085_com gallery player](https://github.com/user-attachments/assets/391693d9-0be6-4c69-889e-a854c8424f91)
+![Screenshot_2025-07-11-08-58-22-102_com gallery player](https://github.com/user-attachments/assets/2c9ed7cc-fcec-4ae1-ac3f-665ab646f249)
+![IMG_20250711_085907](https://github.com/user-attachments/assets/42145c7f-f762-42d0-9fa0-8b09017600df)
