@@ -110,3 +110,43 @@ recived all the parts so I started to build the main project. couldn't get the 3
 ![Screenshot_2025-07-11-08-57-54-085_com gallery player](https://github.com/user-attachments/assets/391693d9-0be6-4c69-889e-a854c8424f91)
 ![Screenshot_2025-07-11-08-58-22-102_com gallery player](https://github.com/user-attachments/assets/2c9ed7cc-fcec-4ae1-ac3f-665ab646f249)
 ![IMG_20250711_085907](https://github.com/user-attachments/assets/42145c7f-f762-42d0-9fa0-8b09017600df)
+
+
+## Day 12 
+So now I added the PAM amplifier and speaker but the issue was I couldn't play anything so then  headed to
+Install the sd card module with it I did everything but still it was not working
+Then I thought maybe it's some issue with my SD Card so I tried 3 more cards and formatted them and tried again but still it wasn't working but then U realised that how fool I am I was powering it with 3.3V when it should have been powered by 5V after doing that yess it started working
+So I setup that and yeah the audio system was working but was having very very very bad quality but I found some more code online to take reference and then after some long tine taking compiling I made something working, I haven't been able to get a perfect audio but it is pretty good quality now
+![photo_6102760546496530531_w](https://github.com/user-attachments/assets/788c2ccd-eee3-4a58-97cb-52d958ded689)
+![photo_6102760546496530527_w](https://github.com/user-attachments/assets/9c4cf685-a66f-42ac-be7e-c825554a39ee)
+time - 7hr
+
+## Day 13
+Added the camera to the main esp32. I streammed the espcam on its own server and then used it with the main Esp32 I also added a new endpoint to control the flash value then I changed the main Esp32 code to connect with the espcam server and show the data I also added slider so that I can control the led but then I realised I should also add some way to control the quality so I added another slider to control the quality of the feed. Now the main issue coming is that the espcam is shutting down after like 1-2 minutes!
+So, today I solved the ESP32 camera problem by finding a capacitor as I didn't have a capacitor in my BOM, but I really needed it. So I went to a shop and I asked ChatGPT which one to get. So he suggested me to get a 470 MUF or 1000 MUF. So, I went there and I preferred 1000 MUF because the bigger it is, the better it is. Like in the value-wise and it's a pretty big one. Around 35 volts, so yeah. After using that and I also got a 470 MUF for the main ESP32 also. Because it told me that it would avoid the voltage spikes. Still the esp cam had the same issue
+So, still it wasn't working, so I need to diagnose the main issue. To be honest, I couldn't find anything which was doing it. So I went to the internet, I searched for a few things, and then I got a Reddit thread that some user faced the same issue but with some other module, because I was fool, I was covering it with the L298 motor driver's 5V, which is 2-2 unstable. Because whenever the car moves, the voltage drops, and the ESP cam is like a current sucker, so it do need a lot of current, I guess around 500 or 600 ampere. So yeah, I used a buck converter to drop the voltage from the 3 battery pack from 12V to 5V, and used it for the power supply, and it works pretty well now.
+[photo_6102760546496530523_w](https://github.com/user-attachments/assets/562023a6-adad-4d93-969d-23ea9c295e02)
+time - 8hr
+
+## Day 14
+So now I got into another trouble that the camera and the main ESP shut down like whenever the motor started running. So it was pretty strange because yesterday it was working pretty fine. So I did some recompiling and some more testing. Externally I tested it but everything was working so I didn't know what issue came. So then I took out my voltmeter and multimeter and then when I placed it on the battery pack I came to know that the batteries are discharged. It's not 12V now it's around 7V due to which the L298 drives too much power and the ESP just shut down. So I had another issue that how would I charge the batteries. So I had no option to actually charge the batteries as I got a TP4056 but it was a 3S battery pack. So how would I even charge it. So this was a design flaw from my side. And I searched online for some of the things that could do the job but I couldn't find anything. So what I did is I just had a couple of TP4056 from the local store and some battery holders. And I have a lot of chargers at my home so I just plugged every 3 battery cell into different battery holders and charged them individually. And after that it was working really great. So yeah that was a really nightmare situation.
+![photo_6102760546496530516_w](https://github.com/user-attachments/assets/a80937da-6456-4099-b275-c6bcd96710b7)
+time - 2hr
+
+## Day 15
+So, today I received my PCB and when I saw the PCB, the obvious flaw that I came to notice is that I was having the wrong MCU. I was having the ESP32 with 30 pins but in the PCB it was of 38 pins and I was really screwed up because I couldn't really return it as I just opened packet of ESP32. So, yeah, I was in a really doubtful situation but I had only one choice. I first searched the internet to find any relevant resources but I couldn't find any. So, my next attempt was to manually fix this design flaw.
+![photo_6102760546496530536_w](https://github.com/user-attachments/assets/af55db74-006a-43e6-bef1-f9b5786ea21e)
+time - 3hr
+
+## Day 16 
+I added everything that was left added the rgb strip, the led graph, added the eyes to the oled this was really tough because of obvious reasons that it was for that shitty 0.96 oled all the libraries so I needed to make my own for the 1.3 so It was really exhaustive learning about stuff asking gemini
+I also improved the overall UI of the web interfce because it was pretty shitty before 
+![photo_6102760546496530561_w](https://github.com/user-attachments/assets/e7869990-02e1-4824-a35c-acbc18b19c2e)
+![photo_6102760546496530560_w](https://github.com/user-attachments/assets/cb7a9403-dbb9-4457-b13f-efb2db789f18)
+
+![photo_6102760546496530559_w](https://github.com/user-attachments/assets/43a03c2d-aa83-416c-be76-5cd345ba873e)
+
+
+## Day 17
+So I started doing the final build and I;m really really tired now  it was very messy everything started to stop working and then start working so I knew I am fucked up but I dont really have words for what happened it just did happened but somehow I did it and im dead now lol
+![dev](https://github.com/user-attachments/assets/4a030aa0-6019-465e-b541-7ca8f9dca83e)
