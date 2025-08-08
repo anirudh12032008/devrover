@@ -30,6 +30,10 @@ I always wanted to build a robot like rover, which can move on my voice commands
 ![f2](https://github.com/user-attachments/assets/5c70919f-8ba9-4d61-aa44-499578473bc3)
 ![f1](https://github.com/user-attachments/assets/6c49fe4f-2a53-4460-b094-c7a76e19a6a7)
 
+# final build
+![dev](https://github.com/user-attachments/assets/80e8274b-772a-457b-bfb6-f8328e615f43)
+
+
 ## Bill of Materials
 | Component                        | Price (INR) | Price (USD) |
 |----------------------------------|-------------|-------------|
