@@ -141,13 +141,13 @@ So, today I received my PCB and when I saw the PCB, the obvious flaw that I came
 time - 3hr
 
 ## Day 16 
-I added everything that was left added the rgb strip, the led graph, added the eyes to the oled this was really tough because of obvious reasons that it was for that shitty 0.96 oled all the libraries so I needed to make my own for the 1.3 so It was really exhaustive learning about stuff asking gemini
+I added everything that was left added the rgb strip, the led graph, added the eyes to the oled this was really tough because of obvious reasons that it was for that shitty 0.96 oled all the libraries so I needed to make my own for the 1.3 so It was really exhaustive learning about stuff asking gemini but finally I managed to get it done
 I also improved the overall UI of the web interfce because it was pretty shitty before 
 ![photo_6102760546496530561_w](https://github.com/user-attachments/assets/e7869990-02e1-4824-a35c-acbc18b19c2e)
 ![photo_6102760546496530560_w](https://github.com/user-attachments/assets/cb7a9403-dbb9-4457-b13f-efb2db789f18)
-
 ![photo_6102760546496530559_w](https://github.com/user-attachments/assets/43a03c2d-aa83-416c-be76-5cd345ba873e)
 
+time - 4hr
 
 ## Day 17
 So I started doing the final build and I;m really really tired now  it was very messy everything started to stop working and then start working so I knew I am fucked up but I dont really have words for what happened it just did happened but somehow I did it and im dead now lol
@@ -156,5 +156,6 @@ So I started doing the final build and I;m really really tired now  it was very 
 ![photo_6120626171633846732_w](https://github.com/user-attachments/assets/71c096a9-e7d5-4123-a247-08ea160e00d2)
 ![photo_6120626171633846733_w](https://github.com/user-attachments/assets/70ce4582-6d11-441a-805e-68576a3a1826)
 ![photo_6120626171633846734_w](https://github.com/user-attachments/assets/6cb05c7c-7cd1-4a8d-a386-52130915dd91)
-
 ![dev](https://github.com/user-attachments/assets/4a030aa0-6019-465e-b541-7ca8f9dca83e)
+
+time - 3hr
