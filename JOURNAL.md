@@ -151,4 +151,10 @@ I also improved the overall UI of the web interfce because it was pretty shitty 
 
 ## Day 17
 So I started doing the final build and I;m really really tired now  it was very messy everything started to stop working and then start working so I knew I am fucked up but I dont really have words for what happened it just did happened but somehow I did it and im dead now lol
+![photo_6120626171633846730_w](https://github.com/user-attachments/assets/eedcf97b-9007-4d30-a362-19b291cdd55b)
+![photo_6120626171633846731_w](https://github.com/user-attachments/assets/ba5904c5-d82e-42cd-bd3f-cf4c54d3890d)
+![photo_6120626171633846732_w](https://github.com/user-attachments/assets/71c096a9-e7d5-4123-a247-08ea160e00d2)
+![photo_6120626171633846733_w](https://github.com/user-attachments/assets/70ce4582-6d11-441a-805e-68576a3a1826)
+![photo_6120626171633846734_w](https://github.com/user-attachments/assets/6cb05c7c-7cd1-4a8d-a386-52130915dd91)
+
 ![dev](https://github.com/user-attachments/assets/4a030aa0-6019-465e-b541-7ca8f9dca83e)
