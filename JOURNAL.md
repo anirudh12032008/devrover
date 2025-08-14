@@ -125,7 +125,9 @@ time - 7hr
 Added the camera to the main esp32. I streammed the espcam on its own server and then used it with the main Esp32 I also added a new endpoint to control the flash value then I changed the main Esp32 code to connect with the espcam server and show the data I also added slider so that I can control the led but then I realised I should also add some way to control the quality so I added another slider to control the quality of the feed. Now the main issue coming is that the espcam is shutting down after like 1-2 minutes!
 So, today I solved the ESP32 camera problem by finding a capacitor as I didn't have a capacitor in my BOM, but I really needed it. So I went to a shop and I asked ChatGPT which one to get. So he suggested me to get a 470 MUF or 1000 MUF. So, I went there and I preferred 1000 MUF because the bigger it is, the better it is. Like in the value-wise and it's a pretty big one. Around 35 volts, so yeah. After using that and I also got a 470 MUF for the main ESP32 also. Because it told me that it would avoid the voltage spikes. Still the esp cam had the same issue
 So, still it wasn't working, so I need to diagnose the main issue. To be honest, I couldn't find anything which was doing it. So I went to the internet, I searched for a few things, and then I got a Reddit thread that some user faced the same issue but with some other module, because I was fool, I was covering it with the L298 motor driver's 5V, which is 2-2 unstable. Because whenever the car moves, the voltage drops, and the ESP cam is like a current sucker, so it do need a lot of current, I guess around 500 or 600 ampere. So yeah, I used a buck converter to drop the voltage from the 3 battery pack from 12V to 5V, and used it for the power supply, and it works pretty well now.
-[photo_6102760546496530523_w](https://github.com/user-attachments/assets/562023a6-adad-4d93-969d-23ea9c295e02)
+
+![photo_6102760546496530523_w](https://github.com/user-attachments/assets/562023a6-adad-4d93-969d-23ea9c295e02)
+
 time - 8hr
 
 ## Day 14
